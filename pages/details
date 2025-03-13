@@ -45,7 +45,7 @@
         </table>
         <br>
         <br>
-        <table width="40%">
+        <table width="45%">
             <tr>
                 <td>
                     <b>Check your Internet connection</b>
@@ -73,7 +73,7 @@
             <tr>
                 <td>
                     <b>If you use a proxy server...</b>
-                    <p>Go to the Chrome menu > Settings > Shoe advanve settings... > Change proxy settings... > LAN Setting and deselect "Use a proxy server for you LAN".</p>
+                    <p>Go to the Chrome menu > Settings > Show advance settings... > Change proxy settings... > LAN Setting and deselect "Use a proxy server for you LAN".</p>
                 </td>
             </tr>
             </table>
